@@ -1,5 +1,5 @@
 # Tech 
--React
+*React
 -Hooks
 -CSS
 

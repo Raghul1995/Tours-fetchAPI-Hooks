@@ -1,4 +1,4 @@
-# Tech
+# Tech 
 JavaScript
 CSS
 Flexbox
